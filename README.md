@@ -1,4 +1,4 @@
-# Power-Automate-RPA-Machine-Group-Snapshots
+# Power Automate RPA Machine Group Snapshots
 
 A quick Power Platform solution to take snapshots of your Hosted RPA bots utilization.
 Read more about [hosted RPA bots in Power Automate](https://learn.microsoft.com/en-us/power-automate/desktop-flows/hosted-machine-groups)
