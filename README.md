@@ -7,6 +7,3 @@ Contains a table to store snapshots, one flow to create them and one to erase af
 
 Solution screenshot:
 ![Sample screenshot](Screenshot_20230118_042701.png)
-
-Known limitations: 
-* the max bot capacity (10 in the picture above) is hard-coded in Power BI visual
